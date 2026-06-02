@@ -1,0 +1,6 @@
+Employee_ID,Name,Join_Date,Salary,Department
+101,Aman,2026-01-15,50000.0,IT
+102,Rahul,2026-02-20,60000.0,HR
+102,Rahul,2026/02/20,60000.0,HR
+103,Sanya,15-03-2026,60000.0,Sales
+105,Priya,2026-05-18,80000.0,HR
